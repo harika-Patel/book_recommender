@@ -45,11 +45,13 @@ python main.py
 <img width="3809" height="2094" alt="Screenshot 2025-07-18 165357" src="https://github.com/user-attachments/assets/a07de688-aea5-41f6-9561-ab09bd9b6632" />
 
 
-# How It Works
-1.Loads and preprocesses book text or metadata using Pandas and LangChain
-2.Splits long text into chunks with CharacterTextSplitter
-3.Embeds the chunks using Hugging Face sentence transformers
-4.Stores embeddings in ChromaDB
-5.Accepts user queries, embeds them, and retrieves the top similar chunks
-6.Displays matching book descriptions or titles via the Gradio UI
+## How It Works
+
+1. **Loads and preprocesses** book text or metadata using Pandas and LangChain  
+2. **Splits** long text into chunks with `CharacterTextSplitter`  
+3. **Embeds** the chunks using Hugging Face Sentence Transformers  
+4. **Stores** embeddings in ChromaDB  
+5. **Accepts user queries**, embeds them, and retrieves the top similar chunks  
+6. **Displays** matching book descriptions or titles via the Gradio UI  
+
 
