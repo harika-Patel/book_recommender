@@ -42,7 +42,8 @@ python main.py
 ```
 # Screenshots
 <img width="3832" height="2112" alt="Screenshot 2025-07-18 165643" src="https://github.com/user-attachments/assets/6d48bd34-e522-4b20-99a1-d634369d79f3" />
-<img width="3832" height="1245" alt="Screenshot 2025-04-23 001207" src="https://github.com/user-attachments/assets/014720c2-05a2-4277-bda9-720705234495" />
+<img width="3809" height="2094" alt="Screenshot 2025-07-18 165357" src="https://github.com/user-attachments/assets/a07de688-aea5-41f6-9561-ab09bd9b6632" />
+
 
 # How It Works
 1.Loads and preprocesses book text or metadata using Pandas and LangChain
